@@ -36,7 +36,8 @@ The website includes a navigation bar, hero section, product cards, membership p
 8. `gap` — Adds spacing between elements.
 
 
-## Preview link : 
+# Preview link : 
+https://prorishu15-cmd.github.io/BCS2026480-MirzaKamil-webdev-webdev-day07-flexbox-landing/
 ## Project Structure
 
 ```text
